@@ -35,7 +35,7 @@ I'm preparing for my project **folder structure stack** project soon 😎
 </tr>
 <tr>
 <td>
-<a  href="https://reactjs.org/">React Js</a>
+<a  href="https://vuejs.org/">React Js</a>
 </td>
 <td>A JavaScript library for building user interfaces</td>
 </tr>
@@ -76,7 +76,7 @@ I'm preparing for my project **folder structure stack** project soon 😎
  1. Clone this repository
 
 ```bash
-git clone https://github.com/yasinatesim/react-todo.git
+git clone https://github.com/yasinatesim/vue-todo.git
 ```
 
  2. Install the project dependencies
@@ -98,9 +98,6 @@ yarn build
 ```bash
 yarn lint
 ```
-
-
-
 
 ## 🔑 License
 * Copyright © 2020 - MIT License.
