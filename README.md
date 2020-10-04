@@ -47,7 +47,7 @@ I'm preparing for my project **folder structure stack** project soon 😎
 </tr>
 <tr>
 <td>
-<a href="https://sass-lang.com/](https://sass-lang.com/">SASS</a>
+<a href="https://sass-lang.com/">SASS</a>
 </td>
 <td>The most mature, stable, and powerful professional grade CSS extension language in the world</td>
 </tr>
